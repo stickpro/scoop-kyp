@@ -1,0 +1,24 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/stickpro/kyp/releases/download/v0.1.0/kyp_0.1.0_windows_amd64.zip",
+            "bin": [
+                "kyp.exe",
+                "kyp-import.exe"
+            ],
+            "hash": "33b3756a2c5ab8c3e7d6583da8be2d469b40972475261d6973f239db8453b129"
+        },
+        "arm64": {
+            "url": "https://github.com/stickpro/kyp/releases/download/v0.1.0/kyp_0.1.0_windows_arm64.zip",
+            "bin": [
+                "kyp.exe",
+                "kyp-import.exe"
+            ],
+            "hash": "4c58f57db57fe79d1c71bbe02170e0af6c52a8a13cc05ad76ae75b034c7b7f39"
+        }
+    },
+    "homepage": "https://github.com/stickpro/kyp",
+    "license": "MIT",
+    "description": "Local-first terminal password manager with TOTP support"
+}
