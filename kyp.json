@@ -7,7 +7,7 @@
                 "kyp-import.exe",
                 "kyp.exe"
             ],
-            "hash": "798df4b7bb8d7b891cb9719fb5127d12d565fe2d67a113f155a9ac1ecadab48e"
+            "hash": "766ad3ca1b8310ad094c4d93c43d5787bfef5686a67d349387afd605b93e0c5f"
         },
         "arm64": {
             "url": "https://github.com/stickpro/kyp/releases/download/v0.1.3/kyp_0.1.3_windows_arm64.zip",
@@ -15,7 +15,7 @@
                 "kyp-import.exe",
                 "kyp.exe"
             ],
-            "hash": "4e57d09afa6487ccf83220d0abf2c4b9fc52416d4f3aed533371686e81cb0383"
+            "hash": "3d839870dc2296227f9835a8c518549b9a17c79bac195a59c907e4d35a7531e4"
         }
     },
     "homepage": "https://github.com/stickpro/kyp",
