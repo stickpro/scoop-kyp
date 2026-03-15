@@ -1,21 +1,21 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stickpro/kyp/releases/download/v0.1.4/kyp_0.1.4_windows_amd64.zip",
+            "url": "https://github.com/stickpro/kyp/releases/download/v0.1.5/kyp_0.1.5_windows_amd64.zip",
             "bin": [
                 "kyp-import.exe",
                 "kyp.exe"
             ],
-            "hash": "30f9a1d16a753976951882bd6979fae5d45a91cc0ee15d52aabc82dc087b2b58"
+            "hash": "428d5b28b0c12a3937e2a80dea3092647b61aaeb0efb34282853b0a4cf1c7307"
         },
         "arm64": {
-            "url": "https://github.com/stickpro/kyp/releases/download/v0.1.4/kyp_0.1.4_windows_arm64.zip",
+            "url": "https://github.com/stickpro/kyp/releases/download/v0.1.5/kyp_0.1.5_windows_arm64.zip",
             "bin": [
-                "kyp-import.exe",
-                "kyp.exe"
+                "kyp.exe",
+                "kyp-import.exe"
             ],
-            "hash": "cbd305124040b25e935fc4f252b35277eb081deac3ec14de8198624cce03108b"
+            "hash": "1c5fef0935f3957b81fa6e2d1477332d96726ed244553b82eb58ad5f1e410e2c"
         }
     },
     "homepage": "https://github.com/stickpro/kyp",
